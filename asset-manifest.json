@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ChristinaHart888/smash-theme.git/static/css/main.073c9b0a.css",
+    "main.js": "/ChristinaHart888/smash-theme.git/static/js/main.94278d7f.js",
+    "static/js/787.0797d56f.chunk.js": "/ChristinaHart888/smash-theme.git/static/js/787.0797d56f.chunk.js",
+    "static/media/logo.svg": "/ChristinaHart888/smash-theme.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ChristinaHart888/smash-theme.git/index.html",
+    "main.073c9b0a.css.map": "/ChristinaHart888/smash-theme.git/static/css/main.073c9b0a.css.map",
+    "main.94278d7f.js.map": "/ChristinaHart888/smash-theme.git/static/js/main.94278d7f.js.map",
+    "787.0797d56f.chunk.js.map": "/ChristinaHart888/smash-theme.git/static/js/787.0797d56f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.94278d7f.js"
+  ]
+}
